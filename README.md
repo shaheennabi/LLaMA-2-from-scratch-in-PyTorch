@@ -1,1 +1,1 @@
-# Llama-2-from-scratch---PyTorch
+# Llama-2-from-scratch in PyTorch
